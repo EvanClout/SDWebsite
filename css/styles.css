@@ -599,9 +599,8 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100% !important;
-  height: 156px !important;
-  object-fit: cover !important;
+  max-width: 100%;
+  object-fit: cover;
 }
 
 .img-thumbnail {
