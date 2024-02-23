@@ -599,6 +599,7 @@ progress {
 }
 
 .img-fluid {
+  height: 156px;
   max-width: 100%;
   height: auto;
 }
@@ -8264,8 +8265,6 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  width: 170px;
-  height: 170px;
   border-radius: 50% !important;
 }
 
